@@ -32,8 +32,8 @@ npm install three
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/waleedahmad4015/Three-js-box-mesh.git
+   cd Three-js-box-mesh
    ```
 
 2. Install dependencies:
@@ -90,4 +90,4 @@ Feel free to fork the repository, submit issues, or make pull requests to enhanc
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Replace `"username/repository-name"` with your actual GitHub username and repository name where applicable. This README provides an overview of the project, installation instructions, and a breakdown of the main code sections.
+Replace `"waleedahmad4015/Three-js-box-mesh"` with your actual GitHub username and repository name where applicable. This README provides an overview of the project, installation instructions, and a breakdown of the main code sections.
